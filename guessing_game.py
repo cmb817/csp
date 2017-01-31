@@ -5,7 +5,7 @@ def guess_game(options=['Amy', 'Bill', 'Cathy']):
     options is a list of what types?
     returns what?
     '''
-    
+    #hi
     # Explain this line of code
     answer = random.choice(options) 
     
